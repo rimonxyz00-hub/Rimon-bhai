@@ -25,17 +25,19 @@
     "ignoreCommand": []
   },
   "adminBot": [
-   
-    "61587645204496"
+    "",
+    "61562826721109",
+    "61557500431580"
   ],
   "developer": [
-    
-    "61587645204496"
+    "",
+    "",
+    ""
   ],
   "vipuser": [
     "",
     "",
-    "61587645204496"
+    ""
   ],
   "reactBy": {
     "delete": [
@@ -55,8 +57,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "MARIA V3",
-  "prefix": "!",
+  "nickNameBot": "RS.<->ＢＯＴ",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -67,15 +69,15 @@
   "timeZone": "Asia/Dhaka",
   "credentials": {
     "gmailAccount": {
-      "email": "",
-      "clientId": "",
-      "clientSecret": "",
-      "refreshToken": "",
+      "email": "babygithub@gmail.com",
+      "clientId": "100897454411-5r8hk9opvdijmogm98ksttg4asvfs3u6.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": "1//04CwY3A993tGWCgYIARAAGAQSNwF-L9IrEMdVj25IWIOrpT0HX7Lo4YXx6ce0JP-C3GjKoyWSFb_-f_N3oHRL15ZwrsQ8TpBsjmI",
       "apiKey": ""
     },
     "gRecaptcha": {
-      "siteKey": "",
-      "secretKey": ""
+      "siteKey": "6LdZTuIrAAAAAEJ9LXfW4a0V97vUPe31lp95DKvA",
+      "secretKey": "6LdZTuIrAAAAAEEK-qSFLsTkK_RJQnL4yTIhcJcL"
     }
   },
   "dashBoard": {
