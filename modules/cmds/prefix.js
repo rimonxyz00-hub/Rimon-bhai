@@ -129,7 +129,7 @@ module.exports = {
 
       const boxConfirm = `
 ┌─❖
-│➥🤖 ${BOT_NAME}
+│➥🤖 RS.RIFAT.BOT V-2
 ├─•
 │➥⏰ Time : ${currentTime}
 │➥📅 Date : ${currentDate.formatted}
@@ -145,7 +145,7 @@ module.exports = {
 │➥📊 SYSTEM STATS
 │➥⏳ Status: Waiting
 │➥👍 React to confirm
-│➥😊 ${BOT_NAME} AT YOUR SERVICE
+│➥😊 RS.CHAT BOT AT YOUR SERVICE
 └─❖
 `.trim();
 
