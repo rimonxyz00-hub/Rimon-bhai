@@ -43,7 +43,7 @@ module.exports = {
           const usedMem = Math.round(mem.heapUsed / 1024 / 1024);
           const totalMem = Math.round(mem.heapTotal / 1024 / 1024);
 
-          const msg = `✅ SAGOR BOT V2 RESTARTED
+          const msg = `✅ RS.RIFAT.CHAT BOT V3 RESTARTED
 ━━━━━━━━━━━━━━
 ⚡ Restart Time: ${restartTime}s
 📅 Date: ${now.toLocaleDateString()}
