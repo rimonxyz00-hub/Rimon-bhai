@@ -3,10 +3,10 @@ const fs = require("fs-extra");
 const path = require("path");
 
 const ownerInfo = {
-  name: "𝐄w'𝐫 𝐒𝐚𝐢𝐦",
-  facebook: "https://facebook.com/61565898444113",
-  telegram: "@saimx69x",
-  supportGroup: "https://m.me/j/AbZP4jRGu45w70du/"
+  name: "𝚁𝚂• 𝚁𝙸𝚏𝙰𝚃",
+  facebook: "https://facebook.com/61557500431580",
+  telegram: "@rifat5546",
+  supportGroup: "https://m.me/61557500431580"
 };
 
 module.exports = {
@@ -74,8 +74,8 @@ module.exports = {
       console.error("⚠️ Error sending botjoin message:", err);
       
       const fallbackMsg = [
-        "❌ 𝐈𝐦𝐚𝐠𝐞 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧 𝐟𝐚𝐢𝐥𝐞𝐝. 𝐇𝐞𝐫𝐞 𝐢𝐬 𝐭𝐡𝐞 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:",
-        "🎀 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐢𝐧𝐯𝐢𝐭𝐢𝐧𝐠 𝐦𝐞 🎀",
+        "🎀 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐢𝐧𝐯𝐢𝐭𝐢𝐧𝐠 𝐦𝐞 🎀:",
+        "☎️ 𝙸𝚏 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚊𝚗𝚢 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜, 𝚙𝚕𝚎𝚊𝚜𝚎 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚝𝚑𝚎 𝚊𝚍𝚖𝚒𝚗.",
         `🔹 𝐁𝐨𝐭 𝐩𝐫𝐞𝐟𝐢𝐱: ${prefix}`,
         `🔸 𝐓𝐲𝐩𝐞: ${prefix}help 𝐭𝐨 𝐬𝐞𝐞 𝐚𝐥𝐥 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬`,
         "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
