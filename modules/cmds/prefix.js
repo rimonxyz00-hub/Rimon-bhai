@@ -41,7 +41,7 @@ function getBDDate() {
   );
 }
 
-const BOT_NAME = "X69X BOT V2"; // Don't Change 
+const BOT_NAME = "RS_RIFAT•¥"; // Don't Change 
 const PREFIX_CHECK_GIF = "https://files.catbox.moe/ddo1rt.gif";
 
 module.exports = {
