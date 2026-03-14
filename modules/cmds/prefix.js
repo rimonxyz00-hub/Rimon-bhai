@@ -177,7 +177,7 @@ module.exports = {
       
       const errorBox = `
 ┌─❖
-│➥🤖 ${BOT_NAME}
+│➥🤖 RS. RIFAT•¥
 ├─•
 │➥⏰ Time : ${currentTime}
 ├─•
@@ -187,7 +187,7 @@ module.exports = {
 ├─•
 │➥📊 SYSTEM STATS
 │➥❌ Status: Failed
-│➥😊 ${BOT_NAME} AT YOUR SERVICE
+│➥😊 RS.CHAT BOT AT YOUR SERVICE
 └─❖
 `.trim();
       
@@ -222,7 +222,7 @@ module.exports = {
         
         const successBox = `
 ┌─❖
-│➥🤖 ${BOT_NAME}
+│➥🤖 RS.RIFAT.BOT V-2
 ├─•
 │➥⏰ Time : ${currentTime}
 │➥📅 Date : ${currentDate.formatted}
@@ -237,7 +237,7 @@ module.exports = {
 ├─•
 │➥📊 SYSTEM STATS
 │➥✅ Status: Success
-│➥😊 ${BOT_NAME} AT YOUR SERVICE
+│➥😊 RS.CHAT BOT AT YOUR SERVICE
 └─❖
 `.trim();
         
@@ -247,7 +247,7 @@ module.exports = {
         
         const successBox = `
 ┌─❖
-│➥🤖 ${BOT_NAME}
+│➥🤖 RS.RIFAT.BOT V-2
 ├─•
 │➥⏰ Time : ${currentTime}
 │➥📅 Date : ${currentDate.formatted}
@@ -262,7 +262,7 @@ module.exports = {
 ├─•
 │➥📊 SYSTEM STATS
 │➥✅ Status: Success
-│➥😊 ${BOT_NAME} AT YOUR SERVICE
+│➥😊 RS.CHAT BOT AT YOUR SERVICE
 └─❖
 `.trim();
         
@@ -287,7 +287,7 @@ module.exports = {
       
       const errorBox = `
 ┌─❖
-│➥🤖 ${BOT_NAME}
+│➥🤖 RS.RIFAT.BOT V-2
 ├─•
 │➥⏰ Time : ${currentTime}
 ├─•
@@ -296,7 +296,7 @@ module.exports = {
 ├─•
 │➥📊 SYSTEM STATS
 │➥❌ Status: Failed
-│➥😊 ${BOT_NAME} AT YOUR SERVICE
+│➥😊 RS.CHAT BOT AT YOUR SERVICE
 └─❖
 `.trim();
       
@@ -345,7 +345,7 @@ module.exports = {
         
       const boxMessage = `
 ┌─❖
-│➥🤖 ${BOT_NAME}
+│➥🤖 RS.RIFAT.BOT V-2
 ├─•
 │➥⏰ Time : ${currentTime}
 │➥📅 Date : ${currentDate.formatted}
@@ -361,7 +361,7 @@ module.exports = {
 │➥📊 SYSTEM STATS
 │➥🕰️ Uptime: ${uptimeText}
 │➥📝 GC Members: ${memberCount}
-│➥😊 ${BOT_NAME} AT YOUR SERVICE
+│➥😊 RS.CHAT BOT AT YOUR SERVICE
 └─❖
 `.trim();
         
@@ -390,7 +390,7 @@ module.exports = {
       
       const errorBox = `
 ┌─❖
-│➥🤖 ${BOT_NAME}
+│➥🤖 RS.RIFAT.BOT V-2
 ├─•
 │➥⏰ Time : ${currentTime}
 ├─•
@@ -399,7 +399,7 @@ module.exports = {
 ├─•
 │➥📊 SYSTEM STATS
 │➥❌ Status: Failed
-│➥😊 ${BOT_NAME} AT YOUR SERVICE
+│➥😊 RS.CHAT BOT AT YOUR SERVICE
 └─❖
 `.trim();
       
