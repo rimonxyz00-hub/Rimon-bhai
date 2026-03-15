@@ -36,7 +36,7 @@ module.exports = {
       await delay(120);
       try {
         await api.editMessage(
-          "X69X BOT System ✅\n" + loadStages[i],
+          "RS• BOT System ✅\n" + loadStages[i],
           msgID,
           event.threadID
         );
@@ -66,7 +66,7 @@ module.exports = {
 
       return `
 ╔═════════════════════╗
-║        ⚡ X69X BOT SYSTEM ⚡
+║        ⚡ RS. BOT SYSTEM ⚡
 ╠═════════════════════╣
 ║ ⏳ Uptime   : ${d}d ${h}h ${m}m ${s}s
 ║ 📅 Date     : ${date}
@@ -81,7 +81,7 @@ module.exports = {
 ║
 ║ ⚙️ PID      : ${process.pid}
 ║ 🛠 Node.js  : ${process.version}
-║ 🧘‍♂️ Owner   : Azadx69x
+║ 🧘‍♂️ Owner   : EWR RIFAT
 ╠═════════════════════╣
 ║        ✅ SYSTEM RUNNING
 ╚═════════════════════╝
