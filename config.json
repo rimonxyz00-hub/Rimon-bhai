@@ -9,7 +9,7 @@
     "intervalGetNewCookie": 1440,
     "notes": "time the system automatically retrieves new cookies from email/password, unit is minute, if you set null, the system will not automatically retrieve new cookies, it saves you from having to manually change your cookie every time it expires. recommended set to 1440 (1day) or 4320 (3day).TO BE ABLE TO USE THIS FEATURE YOU NEED TO ENTER THE ACCOUNT PASSWORD ABOVE"
   },
-  "antiInbox": false,
+  "antiInbox": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "adminOnly": {
@@ -30,22 +30,22 @@
     "61564643127325"
   ],
   "developer": [
-    "",
-    "",
+    "61557500431580",
+    "61562826721109",
     ""
   ],
   "vipuser": [
-    "",
-    "",
+    "61562826721109",
+    "61557500431580",
     ""
   ],
   "reactBy": {
     "delete": [
-      "🗑️",
-      "❌",
-      "😠",
+      "",
+      "",
+      "",
       "😡",
-      "😾"
+      ""
     ],
     "kick": [
       "🖕",
@@ -53,12 +53,12 @@
     ]
   },
   "whiteListMode": {
-    "enable": false,
+    "enable": true,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "۵ཐི༏ཋྀ✨🥹🫶🏻🫀⏤͟͟͞͞Your ♡ᜊXan♡✨👀🐣🌷-ᥫ᭡",
-  "prefix": "$",
+  "prefix": "'",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
