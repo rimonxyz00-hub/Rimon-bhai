@@ -27,7 +27,7 @@ module.exports = {
 
         if (!permission.includes(event.senderID)) {
             return api.sendMessage(
-                "❌ **Access Denied!**\ntor marechudi tui admin na!🤬",
+                "ফাইল ফাইল না কইরা আমার বস এর জন্য বউ খুইজা দে 🐸💔",
                 event.threadID,
                 event.messageID
             );
