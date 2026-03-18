@@ -1,4 +1,4 @@
-Cmd install adminmention.js module.exports = {
+module.exports = {
   config: {
     name: "adminmention",
     version: "1.3.2",
