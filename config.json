@@ -25,17 +25,17 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61557500431580",
-    "61562826721109",
-    "61581176666348"
+    "61576994566923",
+    "100092366766774",
+    "100092366766774"
   ],
   "developer": [
-    "61557500431580"
+    "100092366766774"
   ],
   "vipuser": [
     "",
-    "61562826721109",
-    "61557500431580"
+    "100092366766774",
+    "100092366766774"
   ],
   "reactBy": {
     "delete": [
@@ -45,7 +45,7 @@
       "😾"
     ],
     "kick": [
-      "🖕"
+      "🤬"
     ]
   },
   "whiteListMode": {
@@ -53,8 +53,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "۵ཐི༏ཋྀ⏤͟͟͞͞Your ♡ᜊXan♡-ᥫ᭡",
-  "prefix": ":",
+  "nickNameBot": "psychiatrist",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
